@@ -5,6 +5,6 @@
 * <sup>Free http & socks proxies
 * <sup>Email verification
 * <sup>Phone verification
-* <sup>Custom profile pictures
+* <sup>Custom profile pictures.
 
 **https://discord.gg/r3DTdrdGBp**
